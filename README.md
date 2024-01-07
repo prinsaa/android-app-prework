@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [X] When button is clicked by user, the button colour is changed so that user knows more easily that the button was clicked.
+* [X] When button is clicked by the user, the button colour is changed for better indication of the button being clicked.
 
 ## Video Walkthrough
 
