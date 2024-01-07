@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="pri_intro">Welcome to Pandora! I\'m Prinsa and my goal is to become a stronger, and more confident coder. On this planet, doing this is easy…as long as we work together!</string>
+    <string name="button_text">Say Hello!</string>
+</resources>
